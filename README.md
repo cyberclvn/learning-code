@@ -1,2 +1,2 @@
-# personal-learning-C
-Learning C code to learn how computers works
+# learning-code
+A repo to exercises i made while learning some programing languages
